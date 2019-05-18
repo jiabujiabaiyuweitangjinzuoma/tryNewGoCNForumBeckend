@@ -1,0 +1,2 @@
+# tryNewGoCNForumBeckend
+try go
